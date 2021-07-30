@@ -2,6 +2,9 @@
 create a github repo using script
 
 # Requirements
-githubCli-gh
-ssh key pair
-Access Token.
+
+1.githubCli-gh
+
+2.ssh key pair
+
+3.Access Token.
